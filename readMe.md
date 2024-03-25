@@ -1,3 +1,3 @@
 ## ReadME
-``Keep Smiling  `` `:smile:`
 
+``Keep Smiling `` :smile:
